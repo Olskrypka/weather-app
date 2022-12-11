@@ -53,3 +53,9 @@ li {
 .search-form {
   margin-bottom: 20px;
 }
+
+.small {
+  font-family: arial, sans-serif;
+  font-size: 80%;
+  font-weight: 400;
+}
